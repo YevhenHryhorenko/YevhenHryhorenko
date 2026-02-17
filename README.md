@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Yevhen Hryhorenko</h1>
+<p align="center">
+  Shopify 2.0 Developer • Performance & CRO Focus
+</p>
 
-<!--
-**YevhenHryhorenko/YevhenHryhorenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 3+ years of commercial experience in a CRO-focused Shopify agency  
+• Delivered development and optimization work across 30+ Shopify stores (US & EU markets)  
+• Specialized in modular theme architecture and complex metafield/metaobject systems  
+• Strong focus on storefront performance and conversion-driven implementations  
+
+---
+
+## 🧠 Technical Focus
+
+**Shopify 2.0**
+- Advanced Liquid
+- Modular & reusable section architecture
+- Metafields & Metaobjects
+- Subscription & bundle logic
+
+**Performance & CRO**
+- Core Web Vitals optimization
+- JS/CSS refactoring
+- Render strategy improvements
+- A/B test implementation support
+
+---
+
+## 🌍 Open To
+
+Remote contract opportunities (EU / International)
+
+📫 Connect with me on <a href="https://www.linkedin.com/in/yevhen-hryhorenko-332042183/">LinkedIn</a>
