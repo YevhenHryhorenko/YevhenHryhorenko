@@ -28,10 +28,4 @@
 - Render strategy improvements
 - A/B test implementation support
 
----
-
-## 🌍 Open To
-
-Remote contract opportunities (EU / International)
-
 📫 Connect with me on <a href="https://www.linkedin.com/in/yevhen-hryhorenko-332042183/">LinkedIn</a>
